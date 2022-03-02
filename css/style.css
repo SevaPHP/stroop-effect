@@ -1,0 +1,71 @@
+body{
+    background-color: grey;
+}
+
+.conteiner{
+    border: 1px solid;
+    position: relative;
+    width: 379px;
+    padding: 25px;
+    text-align: left;
+    margin: 0 auto;
+}
+.head{
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    margin: 15px auto;
+}
+.modal {
+    position: relative;
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 300;
+}
+.ball{
+    position: relative;
+    text-align: right;
+}
+.noselect {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.markerks2{
+    color:black;
+    margin-top: 12px;
+    cursor: pointer;
+}
+.markerks2:hover{
+    text-decoration: underline;
+}
+
+#forapage{
+    text-align: center;
+}
+
+.colortext_0{
+    color:red;
+}
+.colortext_1{
+    color:orange;
+}
+.colortext_2{
+    color:yellow;
+}
+.colortext_3{
+    color:green;
+}
+.colortext_4{
+    color:lightblue;
+}
+.colortext_5{
+    color:blue;
+}
+.colortext_6{
+    color:violet;
+}
